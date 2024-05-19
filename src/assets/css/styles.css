@@ -145,7 +145,6 @@ img {
   align-items: center;
   padding: 0.5rem;
   border: 1px solid #ffffff59;
-  max-width: 320px;
   width: 100%;
   background-color: #053264a3;
 
@@ -240,5 +239,9 @@ img {
     h2 {
       font-size: 4rem;
     }
+  }
+
+  .card {
+    max-width: 320px;
   }
 }
